@@ -1,4 +1,4 @@
-## Backend Developer
+## Back-end Developer
 #### 🙅🏻‍♀️ Kim HaLin
 ### Hi there 👋
 
