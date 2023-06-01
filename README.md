@@ -9,7 +9,7 @@
   <img alt="Python" src ="https://img.shields.io/badge/python-3776AB?&style=for-the-badge&logo=python&logoColor=white"/>
   <img alt="JAVA" src ="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white"/>
   <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-007396?&style=for-the-badge&logo=JavaScript&logoColor=white"/>
-
+  <img alt="TYPESCRIPT" src ="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white"/>
   <h4>:open_file_folder: Database :open_file_folder:</h4>
   <br/>
   <img alt="MySQL" src ="https://img.shields.io/badge/MySQL-F80000?&style=for-the-badge&logo=MySQL&logoColor=white"/>
@@ -20,6 +20,7 @@
   <img alt="Flask" src ="https://img.shields.io/badge/flask-000000?&style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F?&style=for-the-badge&logo=SpringBoot&logoColor=white"/>
   <img alt="React" src ="https://img.shields.io/badge/React-61DAFB?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img alt="NestJS" src ="https://img.shields.io/badge/NestJS-ED2748?&style=for-the-badge&logo=NestJS&logoColor=white"/>
 
   <h4>:mag: Other :mag:</h4>
   <br/>
