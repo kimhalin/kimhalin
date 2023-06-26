@@ -1,7 +1,7 @@
 ## Back-end Developer
 ### Hi there! 👋 I'm Ha Lin!
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Halin's&nbsp;Profile&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=A5CBDE&text=Halin's&nbsp;Profile&height=150&animation=fadeIn&fontAlignY=35&fontSize=40)
 
 <div align="center">
   <h2>📚 Tech Stack 📚</h2>
