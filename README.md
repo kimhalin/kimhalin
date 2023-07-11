@@ -51,13 +51,6 @@
 <p align="center">
 
 
-
-<a href="https://github.com/kimhalin">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kimhalin&show_icons=true&theme=radical"  height="180" />
-</a>
-
-
-
 </p>
 
 
