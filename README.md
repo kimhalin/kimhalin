@@ -43,8 +43,6 @@
   <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
   <img alt="Figma" src ="https://img.shields.io/badge/Figma-F24E1E.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
   <img alt="Postman" src ="https://img.shields.io/badge/PostMan-FF6C37.svg?&style=for-the-badge&logo=Postman&logoColor=white"/>
-  <img alt="VSCode" src ="https://img.shields.io/badge/VSCODE-007ACC.svg?&style=for-the-badge&logo=VisualStudioCode&logoColor=white"/>
-  <img alt="Gitkraken" src ="https://img.shields.io/badge/GITKRAKEN-179287.svg?&style=for-the-badge&logo=GITKRAKEN&logoColor=white"/>
 </div>
 <hr/>
 <br/>
